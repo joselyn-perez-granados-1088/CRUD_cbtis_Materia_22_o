@@ -1,0 +1,34 @@
+#operadores relacionales 
+#igual 
+#decalraracion de variables 
+
+a=10 
+b=5
+#validacion 
+resul_igual= a==b 
+print(resul_igual)#salida:false 
+
+#NO IGUAL ! =
+#vañidacion 
+resul_no_igual= a!=b 
+print(resul_no_igual) #salida:true 
+
+#mayor que >
+#validacion 
+resul_mayor=a>b 
+print(resul_mayor)#salida:true 
+
+#menos que <
+#validacion 
+resul_menor =a<b
+print(resul_menor)#salida:true 
+
+#mayor o igual  >=
+#vañidacion 
+resul_mayor_igual=a>=b
+print(resul_mayor_igual)#salida :false 
+
+#menor o igual 
+#validacion 
+resul_menor_igual= a<b
+print(resul_menor_igual)#salida:false 

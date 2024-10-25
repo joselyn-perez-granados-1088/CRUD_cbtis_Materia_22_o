@@ -1,0 +1,11 @@
+{% extends "base.html" %}
+
+
+{% block title %} Gestion Materias  {% endblock %}
+
+{% block cuerpo %}
+    <h1>Gestion Materia    -   Joselyn Perez</h1>
+    {%for m in lasmaterias%}
+    <li> {{m.codigo}}.-.-.-.{{m.nombre}}.-.-.-.{{m.creditos}}.-.-.-.</li>
+    {% endfor %}
+{% endblock %}

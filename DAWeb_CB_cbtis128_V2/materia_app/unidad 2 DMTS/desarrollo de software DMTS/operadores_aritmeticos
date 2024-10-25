@@ -1,0 +1,45 @@
+#operadores aritmeticos 
+#suma 
+#decalracion de variables 
+a=100
+b=5
+#opreracion 
+suma =a+b 
+#imrpimimos mensaje 
+print(suma) #salida 150
+
+#resta 
+#operaciones 
+resta=a-b 
+#imprimimos mensaje 
+print(resta) #salida:50 
+
+#multiplicacion 
+#operaciones 
+mult=a*b
+#imprimimos mensaje 
+print(mult) #salida:5000
+
+#divicion 
+#oprecion 
+divicion=a/b 
+#imprimimos mensaje 
+print(divicion)#salida:2
+
+#divicion entera 
+#operacion 
+divicion_entera=a/b 
+#imprimir mensaje 
+print(divicion_entera) #salida: 20.0 
+
+#modulo 
+#operacion 
+mod=a%b
+#imprimimos mensaje 
+print(mod)#salida:0
+
+#exponente 
+#operacion 
+exp=a**b
+#imprimir mensaje 
+print(exp)#salida :10000000000 
